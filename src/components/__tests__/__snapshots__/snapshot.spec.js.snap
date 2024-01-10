@@ -1,0 +1,10 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Snapshots HomeSongItem.vue > renders correctly 1`] = `
+<router-link-stub
+  class="flex justify-between items-center p-3 pl-6 cursor-pointer transition duration-300 hover:bg-gray-50"
+  custom="false"
+  id="song-id-abc"
+  to="/song/abc"
+/>
+`;

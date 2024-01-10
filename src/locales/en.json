@@ -1,0 +1,66 @@
+{
+  "home": {
+    "listen": "Listen to Great Music!",
+    "info": "Here, you could upload and listen to your favourite music",
+    "songs": "Songs"
+  },
+  "song": {
+    "comment_count": "No comments | 1 comment | {count} comments",
+    "addComment": "Your comment here...",
+    "submit": "Submit",
+    "latest": "Latest",
+    "oldest": "Oldest"
+  },
+  "register": {
+    "accept": "I accept Music's {0}",
+    "tos": "Terms of Service.",
+    "name": "Name",
+    "age": "Age",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "country": "Country",
+    "egypt": "Egypt",
+    "palastine": "Palastine",
+    "norway": "Norway",
+    "submit": "Create new account",
+    "namePlaceholder": "Enter your name",
+    "emailPlaceholder": "Enter your email",
+    "agePlaceholder": "Enter your age",
+    "passwordPlaceholder": "Enter your password",
+    "confirmPasswordPlaceholder": "Confirm your password"
+  },
+  "login": {
+    "account": "Your Account",
+    "log": "Login",
+    "reg": "Register",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Log In",
+    "emailPlaceholder": "Enter your email",
+    "passwordPlaceholder": "Enter your password"
+  },
+  "header": {
+    "appName": "Stoic Music",
+    "about": "About Us",
+    "manage": "Manage",
+    "logReg": "Login / Register",
+    "logout": "Logout"
+  },
+  "manage": {
+    "upload": "Upload",
+    "drop": "Drop your file(s) here",
+    "select": "Select File(s)",
+    "mySongs": "My Songs",
+    "songTitle": "Song Title",
+    "genre": "Genre",
+    "submit": "Submit",
+    "goBack": "Go back"
+  },
+  "about": {
+    "main": "About Stoic Music",
+    "p1": "Here you can upload your favorite music and listen to it whenever you like!",
+    "p2": "By opening Home page, you can find all the great music our users have uploaded!",
+    "p3": "Through Manage page, you can manage all your songs, upload a new song, or even edit your already uploaded ones! (Note that you have to be logged in)."
+  }
+}
